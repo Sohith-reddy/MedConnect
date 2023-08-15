@@ -1,0 +1,25 @@
+{
+    "ABC123$": {
+        "password": "Abc123$",
+        "name": "ABC",
+        "age": "20",
+        "gender": "M",
+        "issues": "Fever and body pains",
+        "prescription": "take dolo 650 for one week, 6 times a day"
+    },
+    "Asha": {
+        "password": "Asha@123",
+        "name": "Asha",
+        "age": "36",
+        "gender": "F",
+        "issues": "Fever,cold",
+        "prescription": "take dlo 650"
+    },
+    "vardaan": {
+        "password": "Vardaan123@",
+        "name": "Vardaan Arora Bhatia",
+        "age": "19",
+        "gender": "Male",
+        "issues": "Heart stroke coming in 2 seconds"
+    }
+}
