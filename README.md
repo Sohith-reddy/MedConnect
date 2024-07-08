@@ -30,6 +30,7 @@ MedConnect is a command-line based healthcare management system implemented in P
 ### Contributing
 Contributions to this project are welcome! Whether you're a developer or not, you can help by reporting issues, suggesting features, or submitting pull requests.
 
+
 ### Future Updates
 This project is actively maintained, and the development roadmap includes adding more features such as online booking for medicines, physical appointment scheduling, and a calories tracker.
 
